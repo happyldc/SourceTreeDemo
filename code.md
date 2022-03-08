@@ -6,9 +6,7 @@ class App{
     public UserInfo getUserInfo(){
         //获取用户信息功能
     }
-     public MoveList getMoveList(){
-        //获取电影列表
-    }
+    
 }
 ```
 
