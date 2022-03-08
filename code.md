@@ -18,6 +18,9 @@ class App{
       public void allowAddFriend(){
         //允许添加朋友
     }
+      public FriendList getFriendList(){
+        //获取好友列表
+    }
 }
 ```
 
