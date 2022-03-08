@@ -9,6 +9,9 @@ class App{
      public MoveList getMoveList(){
         //获取电影列表
     }
+     public NearList getNearList(){
+        //获取附近的人列表
+    }
 }
 ```
 
