@@ -15,6 +15,9 @@ class App{
        public void addFriend(){
         //添加朋友
     }
+      public void allowAddFriend(){
+        //允许添加朋友
+    }
 }
 ```
 
