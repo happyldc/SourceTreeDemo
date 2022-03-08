@@ -16,6 +16,9 @@ class App{
     public void sendMessage(Message msg){
         //发送消息
     }
+    public void deleteMessage(Message msg){
+        //删除消息
+    }
 }
 ```
 
