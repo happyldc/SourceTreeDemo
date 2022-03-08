@@ -18,6 +18,18 @@ class App{
     }
     public void deleteMessage(Message msg){
         //删除消息
+
+     public NearList getNearList(){
+        //获取附近的人列表
+    }
+       public void addFriend(){
+        //添加朋友
+    }
+      public void allowAddFriend(){
+        //允许添加朋友
+    }
+      public FriendList getFriendList(){
+        //获取好友列表
     }
 }
 ```
