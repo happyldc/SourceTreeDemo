@@ -12,6 +12,9 @@ class App{
      public NearList getNearList(){
         //获取附近的人列表
     }
+       public void addFriend(){
+        //添加朋友
+    }
 }
 ```
 
