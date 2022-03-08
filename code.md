@@ -13,6 +13,9 @@ class App{
      public MessageList getMessageList(){
         //获取消息列表
     }
+    public void sendMessage(Message msg){
+        //发送消息
+    }
 }
 ```
 
