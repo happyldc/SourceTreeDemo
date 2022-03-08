@@ -9,6 +9,10 @@ class App{
      public MoveList getMoveList(){
         //获取电影列表
     }
+    
+     public MessageList getMessageList(){
+        //获取消息列表
+    }
 }
 ```
 
